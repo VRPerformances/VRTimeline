@@ -1,0 +1,20 @@
+<positions>
+    <element name="AudioTrack1">
+        <x>0.000000000</x>
+        <y>480.000000000</y>
+        <width>1024.000000000</width>
+        <height>40.000000000</height>
+    </element>
+    <element name="LabelTrack1">
+        <x>0.000000000</x>
+        <y>416.000000000</y>
+        <width>1024.000000000</width>
+        <height>40.000000000</height>
+    </element>
+    <element name="OscTrack1">
+        <x>0.000000000</x>
+        <y>352.000000000</y>
+        <width>1024.000000000</width>
+        <height>40.000000000</height>
+    </element>
+</positions>

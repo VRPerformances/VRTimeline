@@ -1,0 +1,13 @@
+ofxAssimpModelLoader
+ofxNetwork
+ofxOsc
+ofxXmlSettings
+ofxMidi
+ofxMSACore
+ofxMSATimer
+ofxRange
+ofxTextInputField
+ofxTimecode
+ofxTimeline
+ofxTween
+ofxUI

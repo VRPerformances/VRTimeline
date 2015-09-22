@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" ?>
+<settings>
+	<project_settings duration="120"/>
+	<commouts>
+        <commout type="OSC" name="OscComm1" />
+    </commouts>
+    <tracks>
+        <track type="OSC" commout="OscComm1" name="OscTrack1"/>
+		<track type="Label" name="LabelTrack1" />
+        <track type="Audio" name="AudioTrack1" file="dash.wav" setTimeControlTrack="true"/>
+    </tracks>
+	<heartbeats period="100">
+		<heartbeat type="synchro" commout="OscComm1" />
+    </heartbeats>
+</settings>
